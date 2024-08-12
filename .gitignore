@@ -1,5 +1,7 @@
+#Node Js and MacOSX
 node_modules
 __MACOSX
+
 # Logs
 logs
 *.log
